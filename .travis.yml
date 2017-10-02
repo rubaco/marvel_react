@@ -1,11 +1,8 @@
 deploy:
   provider: heroku
   api_key:
-    secure: "ddc2a6c9-e33f-4de5-a5ca-cd06b4a1dd22"
-    app: fast-plateau-24163
-
+    secure: AqtO9znwQrXv9gNcdudl1vQJmpTMSiKR6UB4RBlbQ7s+gn1Mrk73HHbIw1Jc3+aYetips3Uaw/1KpqOu9iLzGLjU7mofI7UpnWNxIxQJ2HdGHKNRiWQtsa+nSNRBEy0HkRM1zBsqtzHiuyD1d9q6GsPmJ4U4w+5wS6RNQtFmUYWg06SZ2iWKkzuhvUtpBcjBw3SQQ3onm6w/JNThVIRMUrUpHhSVvU8gC8qMEHDKnX7x/P3xUhRgNLbg1hQVpu1YZI2wzcFH05AnAcHqrlZsp/aUyjE2BuKIGpMeCIQi4tFJucZe+avBsdGPCJvy83H73n/ykymkuUZmqu53URKgeTkePhddeGdMgH4lMvRZvoIQL0EWdG8CMK5+BLdahXjXW3doLQkjcipsck+9zmHn0cfG7zJ5SjaNGbeuu02rg6mne5qTjUSiWp4mL2AZdheS9Tz5pgWkN8XlpanzBBcjVqWCihMGona353KHA3e+1w2EAfhJO6Uo9FEzlEYubUY8N5ghseqUKnM23vrXLjyLe9x+K5BPUlNCCpLwrI3JaA/u15lhrCq487ibxBeqCfg+aFoZxyFgzx0mEQ7irlSLSVrjD2birU7lzxtkhT9fg4G745PIKB95B8+CZBlw3VxPubYKpw5WXVCdFnWBDOdG/JEAzhFpm8LFv+HsWbJnR3Y=
+  app: fast-plateau-24163
 language: node_js
 node_js:
-  - '8.4.0'
-
-
+- 8.4.0
