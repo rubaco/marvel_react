@@ -1,7 +1,7 @@
 deploy:
   provider: heroku
   api_key:
-    secure: "176b7605-83de-44dc-880a-6c1cdaaf73c0"
+    secure: "ddc2a6c9-e33f-4de5-a5ca-cd06b4a1dd22"
     app: fast-plateau-24163
 
 language: node_js
