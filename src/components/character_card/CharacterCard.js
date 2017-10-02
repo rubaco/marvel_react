@@ -10,6 +10,7 @@ class CharacterCard extends Component {
 
     return (
       <Col xs={12} sm={6} md={3}>
+        <h1>MARVEL!</h1>
         <Thumbnail className="text-center" src={`${character.thumbnail.path}.${character.thumbnail.extension}`} alt={character.name}>
           <h3>{character.name}</h3>
         </Thumbnail>
